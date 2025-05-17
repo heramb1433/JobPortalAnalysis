@@ -80,6 +80,8 @@ The Real-Time Job Analytics Portal attempts to provide dynamic insights into hir
 
 
 
+Netlify (Deployment & Hosting) 🌍 Live Demo (NULL CLASS TRAINING ) : https://nullclasstraining.netlify.app/
+
 Netlify (Deployment & Hosting) 🌍 Live Demo: 🔗https://jobportalnullclasshsk.netlify.app/
 
 
